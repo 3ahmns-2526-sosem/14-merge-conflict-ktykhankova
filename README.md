@@ -9,9 +9,20 @@ Hello GitHub: erstes Repository online angelegt.
 
 Dieses Projekt wurde lokal bearbeitet.
 
-=======
 Dieses Projekt wurde online auf GitHub bearbeitet.
 219af2e441ffb659a44de181be69bef14189ee92
 
 Dieses Projekt wurde lokal und online bearbeitet.
 Der Merge Conflict wurde gelöst.
+
+## Issue 1: Create merge conflict
+## Beschreibung
+
+README lokal und online so ändern, dass ein Merge Conflict entsteht.
+
+## Acceptance Criteria
+
+- [README wurde lokal geändert]
+- [README wurde online auf GitHub geändert]
+- [Es wurde vor dem Pull nicht gepullt]
+- [Ein Merge Conflict wurde erzeugt]
