@@ -26,3 +26,15 @@ README lokal und online so ändern, dass ein Merge Conflict entsteht.
 - [README wurde online auf GitHub geändert]
 - [Es wurde vor dem Pull nicht gepullt]
 - [Ein Merge Conflict wurde erzeugt]
+
+## Issue 2: Resolve merge conflict
+## Beschreibung
+
+Merge Conflict in der README lösen und die Lösung pushen.
+
+## Acceptance Criteria
+
+- [Konfliktmarker wurden entfernt]
+- [README enthält keine Zeilen mit <<<<<<<, ======= oder >>>>>>>]
+- [README enthält den Text "Der Merge Conflict wurde gelöst."]
+- [Änderung wurde committed und gepusht]
